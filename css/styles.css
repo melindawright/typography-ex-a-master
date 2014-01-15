@@ -1,0 +1,23 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+h1{
+	font-family: 'Lustria', serif;
+	font-variant: small-caps;
+	font-size:4em;
+	font-weight: lighter;
+}
+h3{
+	font-family: 'Lustria', serif;
+	font-style: italic;
+	font-size: 2em;
+}
+p{
+	font-family: 'Lustria', serif;
+	color: gray;
+
+}
